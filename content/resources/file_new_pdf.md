@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test34/file_new.pdf
+file: /media/courses/34-test34-spring-2023/file_new.pdf
 file_size: 9450
 file_type: application/pdf
 image_metadata:

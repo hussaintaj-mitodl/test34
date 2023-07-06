@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test34/file.docx
+file: /media/courses/34-test34-spring-2023/file.docx
 file_size: 6108
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:

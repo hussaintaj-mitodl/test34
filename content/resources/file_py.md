@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test34/file.py
+file: /media/courses/34-test34-spring-2023/file.py
 file_size: 6
 file_type: text/x-python-script
 image_metadata:
