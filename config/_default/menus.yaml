@@ -1,2 +1,6 @@
 file_size: null
-leftnav: []
+leftnav:
+- identifier: 2261e373-67e6-4679-8ffe-15b81da12dfd
+  name: page
+  pageRef: /resources/file_txt
+  weight: 10
