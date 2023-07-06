@@ -1,6 +1,6 @@
 file_size: null
 leftnav:
-- identifier: 2261e373-67e6-4679-8ffe-15b81da12dfd
+- identifier: external--1632447086-1688635806515
   name: page
-  pageRef: /resources/file_txt
+  url: https://www.google.com
   weight: 10
