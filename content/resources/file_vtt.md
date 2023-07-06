@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /media/courses/34-test34-spring-2023/file.vtt
-file_size: null
+file_size: 6
 file_type: text/vtt
 image_metadata:
   caption: ''

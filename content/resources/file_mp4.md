@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /media/gdrive_uploads/test34/1gQfgLNz5MIAllEDbYJo9Iu-T53k-Ns5r/file.mp4
-file_size: null
+file_size: 4303305
 file_type: video/mp4
 image_metadata:
   caption: ''
