@@ -16,7 +16,7 @@
     "website": "test34"
   },
   "course_title": "test34",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "",
   "department_numbers": [
     "1"
