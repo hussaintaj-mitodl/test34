@@ -1,5 +1,5 @@
 {
-  "term": "Spring",
+  "term": "January IAP",
   "year": "2023",
   "level": [
     "Undergraduate"
@@ -19,7 +19,10 @@
   "hide_download": false,
   "course_description": "",
   "department_numbers": [
-    "1"
+    "1",
+    "4",
+    "14",
+    "24"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "34",
@@ -27,7 +30,11 @@
     "content": "",
     "website": "test34"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Activity Assignments with Examples",
+    "Demonstration Videos"
+  ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
 }
