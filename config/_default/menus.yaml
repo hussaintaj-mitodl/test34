@@ -3,3 +3,7 @@ leftnav:
   name: page
   url: https://www.google.com
   weight: 10
+- identifier: f46b10d9-8c1a-41a4-9430-bacc97ee00b5
+  name: page
+  pageRef: /pages/page
+  weight: 20
