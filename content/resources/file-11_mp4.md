@@ -9,7 +9,10 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
+- Activity Assignments with Examples
+- Course Introduction
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: file 11.mp4
