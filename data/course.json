@@ -1,9 +1,10 @@
 {
-  "term": "Summer",
+  "term": "Spring",
   "year": "2023",
   "level": [
     "Undergraduate",
-    "High School"
+    "High School",
+    "Graduate"
   ],
   "topics": [
     [
@@ -22,7 +23,7 @@
     "website": "test34"
   },
   "course_image": {
-    "content": "d258254c-a641-4e7b-ba36-e4249f117b98",
+    "content": "8ef68fd2-a89c-49dd-bec9-054e7a4242d2",
     "website": "test34"
   },
   "course_title": "test34",
@@ -47,8 +48,8 @@
     "Demonstration Audio",
     "Design Assignments with Examples",
     "Competition Videos",
-    "Course Introduction",
-    "Design Assignments"
+    "Exam Materials",
+    "Course Introduction"
   ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
