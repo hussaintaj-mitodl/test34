@@ -2,22 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/34-test34-spring-2023/file-30.txt
-file_size: 6
-file_type: text/plain
+file: /media/courses/34-test34-spring-2023/file.docx
+file_size: 6108
+file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Activity Assignments
-- Activity Assignments with Examples
-- Competition Videos
-- Course Introduction
-license: https://creativecommons.org/licenses/by-nc/4.0/
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: file 30.txt
-uid: 76af335a-045e-49dd-8f76-141959c7c0a3
+title: file.docx
+uid: 48b2c4ea-98ec-4158-a288-30a660bbeadc
 video_files:
   archive_url: ''
   video_captions_file: ''
