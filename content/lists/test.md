@@ -14,6 +14,10 @@ resources:
   - 1cf13858-7eb0-440e-8a26-fdd73cca0c48
   - 6e8c1991-3922-419c-93ab-ad92c837d485
   - ce131fa0-7dbd-44a0-a0a5-dccf05e10781
+  - 54994608-b72d-4dd7-b3f6-c4f26d6a47c8
+  - 07b7bdf7-86f2-4e9d-b892-7d4abb5da5dd
+  - 0d69157d-59a3-43c3-bb4a-f86d239379f1
+  - 97969c2f-58e7-4f70-9a39-af158e03e349
   website: test34
 title: test
 uid: c1f60a99-18f7-4d05-963e-c025311c5972
