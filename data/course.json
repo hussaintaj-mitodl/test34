@@ -2,9 +2,15 @@
   "term": "January IAP",
   "year": "2023",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "High School"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
   "file_size": null,
   "legacy_uid": "",
   "instructors": {
@@ -33,7 +39,9 @@
   "learning_resource_types": [
     "Activity Assignments",
     "Activity Assignments with Examples",
-    "Demonstration Videos"
+    "Demonstration Videos",
+    "Demonstration Audio",
+    "Design Assignments with Examples"
   ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
