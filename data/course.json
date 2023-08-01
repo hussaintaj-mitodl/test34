@@ -1,5 +1,5 @@
 {
-  "term": "January IAP",
+  "term": "Summer",
   "year": "2023",
   "level": [
     "Undergraduate",
@@ -9,6 +9,10 @@
     [
       "Business",
       "Accounting"
+    ],
+    [
+      "Energy",
+      "Buildings"
     ]
   ],
   "file_size": null,
@@ -18,7 +22,7 @@
     "website": "test34"
   },
   "course_image": {
-    "content": "351f7a86-5fa9-494e-a35d-d8e6d388f765",
+    "content": "d258254c-a641-4e7b-ba36-e4249f117b98",
     "website": "test34"
   },
   "course_title": "test34",
@@ -33,7 +37,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "34",
   "course_image_thumbnail": {
-    "content": "351f7a86-5fa9-494e-a35d-d8e6d388f765",
+    "content": "d258254c-a641-4e7b-ba36-e4249f117b98",
     "website": "test34"
   },
   "learning_resource_types": [
@@ -42,7 +46,9 @@
     "Demonstration Videos",
     "Demonstration Audio",
     "Design Assignments with Examples",
-    "Course Introduction"
+    "Competition Videos",
+    "Course Introduction",
+    "Design Assignments"
   ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
