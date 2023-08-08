@@ -1,13 +1,13 @@
 leftnav:
-- identifier: external--1632447086-1688635806515
-  name: page
-  url: https://www.google.com
-  weight: 10
 - identifier: f46b10d9-8c1a-41a4-9430-bacc97ee00b5
   name: page
   pageRef: /pages/page
+  weight: 10
+- identifier: 9add95cb-21ec-4f9c-80a4-586e5d8147a6
+  name: file 14
+  pageRef: /resources/file-14_mp4
   weight: 20
-- identifier: 4d77494b-0858-430c-95e0-eb2a5634b848
-  name: page
-  pageRef: /resources/file-11_mp4
+- identifier: 574801e8-227d-476f-a88f-6643132b3402
+  name: video-test
+  pageRef: /
   weight: 30
