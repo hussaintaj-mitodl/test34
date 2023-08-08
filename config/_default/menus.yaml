@@ -15,3 +15,7 @@ leftnav:
   name: video-test-2
   pageRef: /resources/video-test-2
   weight: 40
+- identifier: fd9747c7-c3ae-42f9-9e78-52c41196d3a9
+  name: gal
+  pageRef: /video_galleries/gal
+  weight: 50
