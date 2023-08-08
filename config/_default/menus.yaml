@@ -9,5 +9,9 @@ leftnav:
   weight: 20
 - identifier: 574801e8-227d-476f-a88f-6643132b3402
   name: video-test
-  pageRef: /
+  pageRef: /resources/video-test
   weight: 30
+- identifier: 45d9c05f-11f1-49f1-8ed9-7113736d3312
+  name: video-test-2
+  pageRef: /resources/video-test-2
+  weight: 40
