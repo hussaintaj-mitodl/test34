@@ -15,10 +15,10 @@ resourcetype: Video
 title: video-test-2
 uid: 45d9c05f-11f1-49f1-8ed9-7113736d3312
 video_files:
-  archive_url: null
-  video_captions_file: ''
+  archive_url: www.google.com
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/Dca9gJyjoAg/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: null
 video_metadata:
   video_speakers: ''
   video_tags: ''
