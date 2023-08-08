@@ -3,3 +3,11 @@ leftnav:
   name: page
   pageRef: /pages/page
   weight: 10
+- identifier: 9add95cb-21ec-4f9c-80a4-586e5d8147a6
+  name: file 14
+  pageRef: /resources/file-14_mp4
+  weight: 20
+- identifier: 574801e8-227d-476f-a88f-6643132b3402
+  name: video-test
+  pageRef: /
+  weight: 30
