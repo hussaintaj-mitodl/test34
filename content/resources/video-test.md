@@ -14,7 +14,7 @@ resourcetype: Video
 title: video-test
 uid: 574801e8-227d-476f-a88f-6643132b3402
 video_files:
-  archive_url: ''
+  archive_url: null
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/Dca9gJyjoAg/default.jpg
   video_transcript_file: null
