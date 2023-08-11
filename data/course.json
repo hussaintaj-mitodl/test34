@@ -42,7 +42,9 @@
     "website": "test34"
   },
   "learning_resource_types": [
-    "Recitation Notes"
+    "Recitation Notes",
+    "Activity Assignments",
+    "Competition Videos"
   ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
