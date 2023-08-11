@@ -42,15 +42,7 @@
     "website": "test34"
   },
   "learning_resource_types": [
-    "Activity Assignments",
-    "Activity Assignments with Examples",
-    "Demonstration Videos",
-    "Demonstration Audio",
-    "Design Assignments with Examples",
-    "Competition Videos",
-    "Exam Materials",
-    "Exams",
-    "Design Assignments"
+    "Recitation Notes"
   ],
   "site_uid": "4f20cefe-3f00-418c-9f0b-1e681f7795f7",
   "site_short_id": "test34"
