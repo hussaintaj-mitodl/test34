@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: ''
+description: this came from list description
 draft: false
 resources:
   content:
@@ -19,6 +19,6 @@ resources:
   - 61e87d10-f515-4a31-a1ea-470505c5ce27
   - 605ef310-f15b-4f1b-ab11-be7e637b4fed
   website: test34
-title: test
+title: list title this is
 uid: c1f60a99-18f7-4d05-963e-c025311c5972
 ---
