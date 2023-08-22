@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: this came from list description
+description: "this came from list description\n\n\_\n\nlet's use this as an ID ABCDEFGQWERTY"
 draft: false
 resources:
   content:
