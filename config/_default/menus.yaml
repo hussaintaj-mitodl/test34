@@ -19,3 +19,7 @@ leftnav:
   name: gal
   pageRef: /video_galleries/gal
   weight: 50
+- identifier: c1f60a99-18f7-4d05-963e-c025311c5972
+  name: list
+  pageRef: /lists/test
+  weight: 60
