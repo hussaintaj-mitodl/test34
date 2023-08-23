@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: this came from list description
+description: "this came from list description\n\n\_\n\nlet's use this as an ID ABCDEFGQWERTY"
 draft: false
 resources:
   content:
@@ -22,3 +22,8 @@ resources:
 title: list title this is
 uid: c1f60a99-18f7-4d05-963e-c025311c5972
 ---
+ABC
+
+{{< resource uuid="4d77494b-0858-430c-95e0-eb2a5634b848" >}}
+
+{{% resource_link "d258254c-a641-4e7b-ba36-e4249f117b98" "file 16.jpg" %}}
