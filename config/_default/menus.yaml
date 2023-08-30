@@ -23,3 +23,7 @@ leftnav:
   name: list
   pageRef: /lists/test
   weight: 60
+- identifier: 9c770677-eec8-4f2f-8060-512c254d2163
+  name: quiz
+  pageRef: /pages/quiz
+  weight: 70
